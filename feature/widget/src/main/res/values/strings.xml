@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_select">Select Widget</string>
+    <string name="widget_add">Add Widget</string>
+    <string name="widget_remove">Remove</string>
+    <string name="widget_removed">Widget removed</string>
+    <string name="widget_tap_weather">Tap to load weather</string>
+    <string name="widget_add_todo">Add todo</string>
+</resources>

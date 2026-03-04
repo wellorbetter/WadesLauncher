@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_search_hint">Find apps</string>
+    <string name="drawer_toggle_view">Toggle view</string>
+</resources>

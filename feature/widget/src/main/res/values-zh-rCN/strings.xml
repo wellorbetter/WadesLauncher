@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_select">选择小部件</string>
+    <string name="widget_add">添加小部件</string>
+    <string name="widget_remove">移除</string>
+    <string name="widget_removed">小部件已移除</string>
+    <string name="widget_tap_weather">点击加载天气</string>
+    <string name="widget_add_todo">添加待办</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="section_frequent">Frequent</string>
+    <string name="section_recent">Recently Used</string>
+    <string name="section_new">Recently Installed</string>
+    <string name="section_folders">Folders</string>
+    <string name="edit_delete">Delete</string>
+    <string name="edit_rename">Rename</string>
+    <string name="edit_create_folder">New Folder</string>
+    <string name="edit_folder_name">Folder name</string>
+    <string name="action_create">Create</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">OK</string>
+    <string name="edit_add_category">+ Add Section</string>
+    <string name="edit_done">Done</string>
+    <string name="edit_category_name">Section name</string>
+    <string name="search_no_results">No matching apps found</string>
+    <string name="category_collapse">Collapse</string>
+    <string name="category_expand_more">Expand more (%1$d)</string>
+    <string name="folder_empty">Folder is empty</string>
+    <string name="add_to_folder">Add to \"%1$s\"</string>
+    <string name="add_category_title">Add Section</string>
+    <string name="edit_mode_hint">Edit Mode</string>
+    <string name="date_format">MMM d, EEEE</string>
+    <string name="stack_detail_title">Stack Details</string>
+    <string name="stack_unstack">Unstack</string>
+    <string name="stack_empty">Stack is empty</string>
+    <string name="edit_drag_hint">Long press &amp; drag to reorder or stack</string>
+</resources>

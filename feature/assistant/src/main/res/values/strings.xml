@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_title">AI Assistant</string>
+    <string name="assistant_thinking">Thinking…</string>
+    <string name="assistant_not_configured">AI provider not configured. Go to Settings to set up.</string>
+    <string name="assistant_confirm_action">Confirm action</string>
+    <string name="assistant_cancel">Cancel</string>
+    <string name="assistant_confirm">Confirm</string>
+    <string name="assistant_input_hint">Ask me anything…</string>
+    <string name="assistant_cmd_launch">Launch app: %s</string>
+    <string name="assistant_cmd_search">Search app: %s</string>
+    <string name="assistant_cmd_settings">Open settings</string>
+    <string name="assistant_cmd_url">Open URL: %s</string>
+    <string name="assistant_cmd_alarm">Set alarm: %d:%02d</string>
+</resources>

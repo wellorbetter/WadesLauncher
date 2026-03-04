@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assistant_title">AI 助手</string>
+    <string name="assistant_thinking">思考中…</string>
+    <string name="assistant_not_configured">AI 服务未配置，请前往设置页面配置。</string>
+    <string name="assistant_confirm_action">确认操作</string>
+    <string name="assistant_cancel">取消</string>
+    <string name="assistant_confirm">确认</string>
+    <string name="assistant_input_hint">问我任何问题…</string>
+    <string name="assistant_cmd_launch">启动应用：%s</string>
+    <string name="assistant_cmd_search">搜索应用：%s</string>
+    <string name="assistant_cmd_settings">打开设置</string>
+    <string name="assistant_cmd_url">打开链接：%s</string>
+    <string name="assistant_cmd_alarm">设置闹钟：%d:%02d</string>
+</resources>
