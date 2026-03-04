@@ -1,0 +1,49 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /mnt/d/Personal/.claude/hooks/mark-build.sh"
+          }
+        ],
+        "description": "标记 WadesLauncher 源码变更（Edit）"
+      },
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /mnt/d/Personal/.claude/hooks/mark-build.sh"
+          }
+        ],
+        "description": "标记 WadesLauncher 源码变更（Write）"
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /mnt/d/Personal/.claude/hooks/session-save.sh"
+          }
+        ],
+        "description": "会话记忆持久化"
+      },
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /mnt/d/Personal/.claude/hooks/build-install.sh",
+            "timeout": 300
+          }
+        ],
+        "description": "代码变更后自动 build + adb install"
+      }
+    ]
+  }
+}
